@@ -2,8 +2,8 @@
 Я Артем- Начинающий Тестировщик ПО
 ***
 #  Контакты
-Email: artem.pog24@gmail.com
-Telegram: https://t.me/artpogorelov62
+* Email: artem.pog24@gmail.com
+* Telegram: https://t.me/artpogorelov62
 ***
 #  Портфолио
 За время обученя на курсе Нетологии "Тестировщик ПО" я изучил следующие блоки, и выполнил к ним домашние задания:
